@@ -2,6 +2,6 @@
 
 Installing and running 
 
-```git
+```bash
 git clone https://github.com/titanilham/Neofetch-in-windows.git
 ```
