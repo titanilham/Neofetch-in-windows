@@ -63,7 +63,7 @@ def neofetch():
                                     ``
       """)
       
-      print(win10)
+      print(win10_no_ansi)
      
 
 if __name__ == '__main__':
