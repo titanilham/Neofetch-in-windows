@@ -19,7 +19,7 @@
   
 ## Installing and running 
 
-### install:
+### install repository:
 ```
 git clone https://github.com/titanilham/Neofetch-in-windows.git
 ```
