@@ -24,7 +24,7 @@
 git clone https://github.com/titanilham/Neofetch-in-windows.git
 ```
 
-### install WMI:                                                                              
+### install wmi:                                                                              
 ```
 pip install WMI
 ```
