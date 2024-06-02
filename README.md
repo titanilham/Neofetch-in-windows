@@ -24,9 +24,9 @@
 git clone https://github.com/titanilham/Neofetch-in-windows.git
 ```
 
-### install wmi:                                                                              
+### Module installation:                                                                              
 ```
-pip install WMI
+pip install -r requirements.txt
 ```
 
 ### run:
