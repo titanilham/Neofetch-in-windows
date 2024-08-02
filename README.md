@@ -15,7 +15,7 @@
 <br>
 
 <h2>Preview:<h2/>
-<img src="https://github.com/titanilham/Neofetch-in-windows/blob/main/src/image_2024-03-31_12-31-27.png?raw=true" title="Preview"/>
+<img src="https://github.com/titanilham/Neofetch-in-windows/blob/main/Neofetch.jpg?raw=true" title="Preview"/>
   
 ## Installing and running 
 
