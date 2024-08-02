@@ -1,2 +1,2 @@
 WMI==1.5.1
-colorama==0.4.6
+psutil==6.0.0

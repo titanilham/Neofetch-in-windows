@@ -19,9 +19,7 @@ def neofetch():
     clock_speed = proc_info.CurrentClockSpeed
     system_ram = round(float(os_info.TotalVisibleMemorySize) / 1048576, 1)
     gpu_name = gpu_info.Name
-    resolution = (
-        f"{gpu_info.CurrentHorizontalResolution} X {gpu_info.CurrentVerticalResolution}"
-    )
+    resolution = (f"{gpu_info.CurrentHorizontalResolution} X {gpu_info.CurrentVerticalResolution}")
     model = computer_info.Model
     name = computer_info.Name
     primary_owner_name = computer_info.PrimaryOwnerName
